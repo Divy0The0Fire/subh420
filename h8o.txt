@@ -1,0 +1,104 @@
+[
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\.gitignore",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\dev-requirements.txt",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\LICENSE",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\pyproject.toml",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\README.md"
+        ],
+        "commitday": 1,
+        "commitmessage": "Initialize repository with essential project files"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\.github\\workflows\\lint.yml",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\.github\\workflows\\python-publish.yml"
+        ],
+        "commitday": 2,
+        "commitmessage": "Add GitHub Actions workflows for linting and publishing"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\README.md",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\read_readme_for_instructions.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\update_rawdog_config.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\code\\copy_github_action_script.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\code\\create_hello_script.py"
+        ],
+        "commitday": 3,
+        "commitmessage": "Add examples and example scripts for Rawdog"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\code\\import_in_init.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\csv\\nasdaq_sp_from_csv.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\csv\\normalize_sp.py"
+        ],
+        "commitday": 4,
+        "commitmessage": "Add additional example scripts for CSV processing"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\graphs\\git_contributor_graph.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\graphs\\nasdaq_price_changes.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\graphs\\zsh_history.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\media\\remove_sound.py"
+        ],
+        "commitday": 5,
+        "commitmessage": "Add more example scripts for graph and media handling"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\pic\\greyscale_screenshot.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\pic\\mandelbrot.py"
+        ],
+        "commitday": 6,
+        "commitmessage": "Add picture handling examples"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\repo\\describe_docs_structure.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\repo\\describe_github_actions.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\examples\\repo\\license_question.py"
+        ],
+        "commitday": 7,
+        "commitmessage": "Add repository description examples"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\scripts\\fine_tune.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\scripts\\generate_jsonl_from_examples.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\scripts\\migrations\\v0.1_to_v0.2.py"
+        ],
+        "commitday": 8,
+        "commitmessage": "Add scripts for fine-tuning and migration"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\config.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\execute_script.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\llm_client.py"
+        ],
+        "commitday": 9,
+        "commitmessage": "Implement core functionalities for Rawdog"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\logging.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\parsing.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\prompts.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\utils.py"
+        ],
+        "commitday": 10,
+        "commitmessage": "Add logging, parsing, prompts, and utility functions"
+    },
+    {
+        "files": [
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\__init__.py",
+            "C:\\Users\\Divyansh\\AppData\\Local\\Temp\\tmpotnqeqth\\src\\rawdog\\__main__.py"
+        ],
+        "commitday": 11,
+        "commitmessage": "Finalize project initialization with main entry points"
+    }
+]
